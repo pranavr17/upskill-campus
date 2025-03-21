@@ -5,8 +5,7 @@ Overview
 This repository documents my work, learnings, and contributions during my Digital Marketing Internship at Upskill Campus. The internship focused on developing and implementing marketing strategies, optimizing digital campaigns, and analyzing data to enhance brand engagement and conversions.
 
 Internship Duration
-
-[Specify your start and end date, e.g., February 2025 – April 2025]
+[February 2025 – April 2025]
 
 Key Responsibilities
 
